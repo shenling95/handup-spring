@@ -1,0 +1,15 @@
+package cn.shenl.service;
+
+/**
+ * @ClassName UserService
+ * @Description TODO
+ * @Author dmm
+ * @Date 2021/9/9 23:32
+ * @Version 1.0
+ */
+public class UserService {
+
+    public void test() {
+        System.out.println("test");
+    }
+}
